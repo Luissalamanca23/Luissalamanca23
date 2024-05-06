@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Salamanca</h1>
 <h3 align="center">A passionate student in web programming, Cloud Computing and AI</h3>
 
-- 🔭 I’m currently working on [ECOCASHBACK](EcoCashBack.vercel.app)
+- 🔭 I’m currently working on [ECOCASHBACK](https://github.com/Luissalamanca23/EcoCashBack)
 
 - 🌱 I’m currently learning **AZURE, SWIFT**
 
