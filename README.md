@@ -28,7 +28,7 @@
 
 > Passionate developer building the future through code and innovation
 
-- 🔭 Currently working on [WeblynAI](https://weblynai.com) - Building innovative AI solutions
+- 🔭 Currently working on **CITT Check** – A smart system for inventory and access control in innovation hubs.
 - 🌱 Expanding my skills in **Azure Cloud Services** and **iOS Development with Swift**
 - 💡 Specializing in Full Stack Development with modern technologies
 - 🎯 2024 Goals: Master cloud architecture and contribute to open source
@@ -62,16 +62,31 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Luissalamanca23&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luissalamanca23&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200" />
 </div>
 
 ## 🎯 Latest Projects
 
 - 🤖 **WeblynAI** - AI-powered web solutions
-- 🌐 More exciting projects coming soon!
+- 🌐 Simple Stock – Inventory management made simple (In Progress).
+- ⚡ More exciting projects are on their way. Stay tuned!
 
 ## 📫 Let's Connect!
 
-I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out!
+I’m always up for collaborating on groundbreaking projects, sharing ideas, or just networking with like-minded people. Reach out through any platform below!
+
+<div align="center">
+  <a href="https://linkedin.com/in/luis-t-salamanca/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:l.salamanca18@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/luis_salamanca17/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Luissalamanca23/Luissalamanca23/output/snake.svg" alt="Snake animation" />
@@ -80,4 +95,5 @@ I'm always interested in collaborating on innovative projects and discussing new
 ---
 <p align="center">
   <i>⚡ "Code is poetry written in logic"</i>
+  <i>⚡ "Technology is the superpower that shapes tomorrow."</i>
 </p>
